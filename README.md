@@ -19,7 +19,7 @@
 <h2> :star: Completed Courses</h2>
 
 - <b>Udemy</b>
-  - [Splunk - Beginner to Architect](https://github.com/joshmadakor1/Sentinel-Lab) <b><i>(10.5 hours)</b></i>
+  - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b><i>(10.5 hours)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
