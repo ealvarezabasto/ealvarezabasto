@@ -1,10 +1,10 @@
 <h1>Hi, I'm Eliana! <br/><a href="https://github.com/ealvarezabasto">SIEM Project Manager Consultant</a> <a href="https://www.linkedin.com/in/elianaalvarez11/"</a></h1>
 
-<h2>👨‍💻 Splunk SIEM Development Projects:</h2>
+<h2>👨‍💻 Splunk Enterprise SIEM Development Projects:</h2>
 
-- <b>Setting up Splunk ES labs</b>
-  - [Installing Splunk ES on AWS EC2 Instance](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
-  - [Installing Splunk ES on DigitalOcean Droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.4.%20Installing%20Splunk%20ES%20on%20DigitalOcean%20Droplet.md)
+- <b>Setting up Splunk labs</b>
+  - [Installing Splunk on AWS EC2 Instance](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
+  - [Installing Splunk on DigitalOcean Droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.4.%20Installing%20Splunk%20ES%20on%20DigitalOcean%20Droplet.md)
 - <b>Ingesting / Parsing Data</b>
   - [TBD](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 - <b>Creating Knowledge Objects</b>
