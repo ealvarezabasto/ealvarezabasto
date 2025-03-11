@@ -22,6 +22,10 @@
 
 - [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
 
+<h2> :star: Completed Courses</h2>
+
+- <b>Udemy</b>
+  - [Splunk - Beginner to Architect](https://github.com/joshmadakor1/Sentinel-Lab) <b><i>(10.5 hours)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
