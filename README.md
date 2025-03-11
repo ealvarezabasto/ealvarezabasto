@@ -4,7 +4,7 @@
 
 - <b>Setting up Splunk ES labs</b>
   - [Installing Splunk ES on AWS EC2 Instance](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
-  - [Installing Splunk ES on DigitalOcean Droplet (Linux-Ubuntu)](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.4.%20Installing%20Splunk%20ES%20on%20DigitalOcean%20Droplet.md)
+  - [Installing Splunk ES on DigitalOcean Droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.4.%20Installing%20Splunk%20ES%20on%20DigitalOcean%20Droplet.md)
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
