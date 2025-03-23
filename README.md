@@ -30,7 +30,7 @@
   - [5.2 Distributed Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.2%20Distributed%20Splunk%20Architecture.md)
   - [5.3 Splunk Directory Structure](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.3.%20Splunk%20Directory%20Structure..md)
 - <b>Access Control/b>
-  - [6.1 Users, Roles, Permissions][https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.1%20Splunk%20Architecture.md](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20User%20Access%20and%20Authentication/6.1%20Access%20Control.md)
+  - [6.1 Users, Roles, Permissions](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20User%20Access%20and%20Authentication/6.1%20Access%20Control.md)
 
 <h2> :page_facing_up: Certifications</h2>
 
