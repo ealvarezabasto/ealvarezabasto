@@ -40,7 +40,7 @@
 
 - <b>Udemy</b>
   - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b>(10.5 hours)</b>
-  - <a href="https://www.coursera.org/learn/splunk-administration-and-advanced-topics/home/module/1">Splunk Administration and User Management</a> (9 hours - In Progress)
+  - <a href="https://www.coursera.org/learn/splunk-administration-and-advanced-topics/home/module/1">Splunk Administration and User Management</a> <b>(9 hours - In Progress)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
