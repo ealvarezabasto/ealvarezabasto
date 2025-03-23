@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Splunk Enterprise SIEM Development Projects:</h2>
 
-- <b>Setting up Splunk labs</b>
-  - [Installing Splunk on AWS EC2 Instance](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
+- <b>Setting up Splunk labs in different cloud instances</b>
+  - [Installing Splunk ES on AWS EC2 Instance (Ubuntu Linux)](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
+  - [Installing a Docker container on an AWS EC2 (Ubuntu Linux) to then install Splunk](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.2.%20Installing%20Docker%20in%20AWS%20EC2.md)
+  - [install Splunk in a Docker container on Windows 10](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.3.%20Installing%20Splunk%20Docker%20Container%20in%20Windows.md)
   - [Installing Splunk on DigitalOcean Droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.4.%20Installing%20Splunk%20ES%20on%20DigitalOcean%20Droplet.md)
 - <b>Ingesting / Parsing Data</b>
   - [TBD](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
@@ -23,6 +25,7 @@
 
 - <b>Udemy</b>
   - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b>(10.5 hours)</b>
+  - <a href="https://www.coursera.org/learn/splunk-administration-and-advanced-topics/home/module/1">Splunk Administration and User Management</a> (9 hours)
 
 <h2> 🤳 Connect with me:</h2>
 
