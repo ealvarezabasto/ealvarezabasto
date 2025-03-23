@@ -10,23 +10,27 @@
   - [1.5. Key Based Authentication for DigitalOcean droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.5.%20Key%20Based%20Authentication%20for%20DigitalOcean%20droplet.md)
   - [1.6 Install Splunk ES in Windows 10](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.6%20Install%20Splunk%20in%20Windows%2010.md)
 - <b>Universal Forwarder and Management</b>
-  - [2.1 Install Universal Forwarder in Server][https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Universal%20Forwarder/2.1%20Install%20Universal%20Forwarder%20in%20Server.md]
-  - [2.2 Forwarder & User Management](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Data%20Ingestion%20and%20Parsing/2.1%20Ingest%20Data%20logs.md)](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Universal%20Forwarder/2.2%20Forwarder%20%26%20User%20Management.md)
+  - [2.1 Install Universal Forwarder in Server](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Universal%20Forwarder/2.1%20Install%20Universal%20Forwarder%20in%20Server.md)
+  - [2.2 Forwarder & User Management](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
 - <b>Ingesting / Parsing Data</b>
-  - [3.1 Ingest Data logs][(https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Data%20Ingestion%20and%20Parsing/2.1%20Ingest%20Data%20logs.md)
+  - [3.1 Ingest Data logs][(https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
   - [3.2 Importing data via Lookups](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Data%20Ingestion%20and%20Parsing/2.2%20Importing%20data%20via%20Lookups.md)
   - [3.3 Parsing of Data using Splunk Apps & Add-Ons](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Data%20Ingestion%20and%20Parsing/2.3%20Parsing%20of%20Data%20using%20Splunk%20Apps%20%26%20Add-Ons.md)
   - [3.4 Parsing of Data using Interactive Field Extractor](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Data%20Ingestion%20and%20Parsing/2.4%20Parsing%20of%20Data%20using%20Interactive%20Field%20Extractor.md)
-
-
-
-- <b>Creating Knowledge Objects</b>
-  - [Installing Splunk on AWS EC2 Instance](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
-  - [Installing Splunk on DigitalOcean Droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.4.%20Installing%20Splunk%20ES%20on%20DigitalOcean%20Droplet.md)
-- <b>Creating Knowledge Objects</b>
-  - [TBD](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Other</b>
-  - [TBD](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Understanding Knowledge Objects</b>
+  - [4.1 Classic Dashboards](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/Dashboard/4.1%20Classic%20Dashboards.md)
+  - [4.2 Splunk Reports](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.2%20Splunk%20Reports.md)
+  - [4.3 Event Types](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.3%20Event%20Types.md)
+  - [4.4 Data Models](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.4%20Data%20Models.md)
+  - [4.5 Alerts](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.5%20Alerts.md)
+  - [4.6 Tags](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.6%20Tags.md)
+  -[ 4.7 Colored Event Types](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.7%20Colored%20Event%20Types.md)
+- <b>Splunk Architecture/b>
+  - [5.1 Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.1%20Splunk%20Architecture.md)
+  - [5.2 Distributed Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.2%20Distributed%20Splunk%20Architecture.md)
+  - [5.3 Splunk Directory Structure](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.3.%20Splunk%20Directory%20Structure..md)
+- <b>Access Control/b>
+  - [6.1 Users, Roles, Permissions]([https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.1%20Splunk%20Architecture.md](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20User%20Access%20and%20Authentication/6.1%20Access%20Control.md)
 
 <h2> :page_facing_up: Certifications</h2>
 
