@@ -3,10 +3,12 @@
 <h2>👨‍💻 Splunk Enterprise SIEM Development Projects:</h2>
 
 - <b>Setting up Splunk labs in different cloud instances</b>
-  - [Installing Splunk ES on AWS EC2 Instance (Ubuntu Linux)](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
-  - [Installing a Docker container on an AWS EC2 (Ubuntu Linux) to then install Splunk](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.2.%20Installing%20Docker%20in%20AWS%20EC2.md)
-  - [install Splunk in a Docker container on Windows 10](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.3.%20Installing%20Splunk%20Docker%20Container%20in%20Windows.md)
-  - [Installing Splunk on DigitalOcean Droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.4.%20Installing%20Splunk%20ES%20on%20DigitalOcean%20Droplet.md)
+  - [1.1 Install Splunk ES on AWS EC2 Instance (Ubuntu Linux)](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
+  - [1.2 Install a Docker container on an AWS EC2 (Ubuntu Linux) to then install Splunk ES](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.2.%20Installing%20Docker%20in%20AWS%20EC2.md)
+  - [1.3 Install Splunk ES in a Docker container on Windows 10](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.3.%20Installing%20Splunk%20Docker%20Container%20in%20Windows.md)
+  - [1.4 InstaLl Splunk ES on DigitalOcean Droplet](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/Setting%20up%20labs%20/1.4.%20Installing%20Splunk%20ES%20on%20DigitalOcean%20Droplet.md)
+  - [1.5. Key Based Authentication for DigitalOcean droplet] (https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.5.%20Key%20Based%20Authentication%20for%20DigitalOcean%20droplet.md)
+  - [1.6 Install Splunk ES in Windows 10] (https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.6%20Install%20Splunk%20in%20Windows%2010.md)
 - <b>Ingesting / Parsing Data</b>
   - [TBD](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>Creating Knowledge Objects</b>
