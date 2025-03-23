@@ -24,13 +24,13 @@
   - [4.4 Data Models](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.4%20Data%20Models.md)
   - [4.5 Alerts](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.5%20Alerts.md)
   - [4.6 Tags](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.6%20Tags.md)
-  -[ 4.7 Colored Event Types](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.7%20Colored%20Event%20Types.md)
+  - [4.7 Colored Event Types](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/4.%20Knowledge%20Objects/4.7%20Colored%20Event%20Types.md)
 - <b>Splunk Architecture/b>
   - [5.1 Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.1%20Splunk%20Architecture.md)
   - [5.2 Distributed Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.2%20Distributed%20Splunk%20Architecture.md)
   - [5.3 Splunk Directory Structure](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.3.%20Splunk%20Directory%20Structure..md)
 - <b>Access Control/b>
-  - [6.1 Users, Roles, Permissions]([https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.1%20Splunk%20Architecture.md](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20User%20Access%20and%20Authentication/6.1%20Access%20Control.md)
+  - [6.1 Users, Roles, Permissions][https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.1%20Splunk%20Architecture.md](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20User%20Access%20and%20Authentication/6.1%20Access%20Control.md)
 
 <h2> :page_facing_up: Certifications</h2>
 
