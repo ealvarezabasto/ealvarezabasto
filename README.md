@@ -13,7 +13,7 @@
   - [2.1 Install Universal Forwarder in Server](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Universal%20Forwarder/2.1%20Install%20Universal%20Forwarder%20in%20Server.md)
   - [2.2 Forwarder & User Management](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
 - <b>Ingesting / Parsing Data</b>
-  - [3.1 Ingest Data logs][(https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
+  - [3.1 Ingest Data logs](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
   - [3.2 Importing data via Lookups](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Data%20Ingestion%20and%20Parsing/2.2%20Importing%20data%20via%20Lookups.md)
   - [3.3 Parsing of Data using Splunk Apps & Add-Ons](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Data%20Ingestion%20and%20Parsing/2.3%20Parsing%20of%20Data%20using%20Splunk%20Apps%20%26%20Add-Ons.md)
   - [3.4 Parsing of Data using Interactive Field Extractor](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/2.%20Data%20Ingestion%20and%20Parsing/2.4%20Parsing%20of%20Data%20using%20Interactive%20Field%20Extractor.md)
