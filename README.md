@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eliana! <br/><a href="https://github.com/ealvarezabasto">SIEM Project Manager Consultant</a> <a href="https://www.linkedin.com/in/elianaalvarez11/"</a></h1>
 
-<h2>👨‍💻 Splunk Enterprise SIEM Development Projects:</h2>
+<h2>👨‍💻 Personal Splunk Enterprise SIEM Development Projects:</h2>
 
 - <b>Setting up Splunk labs in different cloud instances</b>
   - [1.1 Install Splunk ES on AWS EC2 Instance (Ubuntu Linux)](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/1.%20Setting%20up%20labs/1.1%20Installing%20Splunk%20ES%20on%20AWS%20EC2%20Instance.md)
