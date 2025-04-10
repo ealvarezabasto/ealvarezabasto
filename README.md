@@ -32,6 +32,9 @@
 - <b>Access Control</b>
   - [6.1 Users, Roles, Permissions](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20User%20Access%20and%20Authentication/6.1%20Access%20Control.md)
 
+- <b>Personal Notes: Prep CompTIA Network+</b>
+  - [1.1 Computer Networking Fundamentals](https://github.com/ealvarezabasto/Networking-Fundamentals/blob/main/Computer%20Networking%20Fundamentals.md)
+
 <h2> :page_facing_up: Certifications</h2>
 
 - [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
@@ -41,6 +44,7 @@
 - <b>Udemy</b>
   - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b>(10.5 hours)</b>
   - <a href="https://www.coursera.org/learn/splunk-administration-and-advanced-topics/home/module/1">Splunk Administration and User Management</a> <b>(9 hours - In Progress)</b>
+  
 
 <h2> 🤳 Connect with me:</h2>
 
