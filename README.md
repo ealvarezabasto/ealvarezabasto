@@ -32,7 +32,7 @@
 - <b>Access Control</b>
   - [6.1 Users, Roles, Permissions](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20User%20Access%20and%20Authentication/6.1%20Access%20Control.md)
 
-<h2>👨‍💻 Personal Notes: Prep CompTIA Network+</h2>
+<h2>:globe_with_meridians: Personal Notes: Prep CompTIA Network+</h2>
 - <b>Udemy</b>
   - [1.1 Computer Networking Fundamentals](https://github.com/ealvarezabasto/Networking-Fundamentals/blob/main/Computer%20Networking%20Fundamentals.md)
 
