@@ -29,8 +29,13 @@
   - [5.1 Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.1%20Splunk%20Architecture.md)
   - [5.2 Distributed Splunk Architecture](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.2%20Distributed%20Splunk%20Architecture.md)
   - [5.3 Splunk Directory Structure](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Architecture/5.3.%20Splunk%20Directory%20Structure..md)
-- <b>Access Control</b>
+- <b>User Access Control and Authentication</b>
   - [6.1 Users, Roles, Permissions](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20User%20Access%20and%20Authentication/6.1%20Access%20Control.md)
+- <b>Guides</b>
+  - [7.1 Log Types](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Guides/7.1%20Log%20Types.md)
+  - [7.2 Regular Expressions](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Guides/7.2%20Regular%20Expressions.md)
+  - [7.3 Splunk Architecture and Design](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Guides/7.3%20Splunk%20Architecture%20and%20Directory%20Structure.md)
+
 
 <h2> :globe_with_meridians: Personal Notes: Prep CompTIA Network+</h2>
 - <b>Udemy</b>
