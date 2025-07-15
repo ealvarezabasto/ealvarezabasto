@@ -49,6 +49,7 @@
 
 - <b>Udemy</b>
   - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b>(10.5 hours)</b>
+  - [The Complete Splunk Enterprise Certified Admin Course] (https://eylearning.udemy.com/certificate/UC-0cfde4ab-fa14-4742-bc44-b8492f368281/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com) <b>(4 hours)</b>
   - <a href="https://www.coursera.org/learn/splunk-administration-and-advanced-topics/home/module/1">Splunk Administration and User Management</a> <b>(9 hours - In Progress)</b>
   - <a href="https://eylearning.udemy.com/course/networkingbasics/learn/quiz/5868272#overview">Introduction to Computer Networking - Beginner Crash Course</a> <b>(6 hours - In Progress)</b>
   
