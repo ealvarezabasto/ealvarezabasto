@@ -33,8 +33,8 @@
   - [5.3 Parsing of Data using Splunk Apps & Add-Ons](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Data%20Ingestion%20and%20Parsing/5.3%20Parsing%20of%20Data%20using%20Splunk%20Apps%20%26%20Add-Ons.md)
   - [5.4 Parsing of Data using Interactive Field Extractor](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/5.%20Data%20Ingestion%20and%20Parsing/5.4%20Parsing%20of%20Data%20using%20Interactive%20Field%20Extractor.md)
 - <b>Indexes</b>
-  - [6.1 Creating Indexes via Splunk Web](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20Indexes/6.1%20Creating%20an%20Index.md>
- - <b>Knowledge Objects</b>
+  - [6.1 Creating Indexes via Splunk Web](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/6.%20Indexes/6.1%20Creating%20an%20Index.md>)
+- <b>Knowledge Objects</b>
   - [7.1 Classic Dashboards](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/Dashboard/7.1%20Classic%20Dashboards.md)
   - [7.2 Splunk Reports](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/7.2%20Splunk%20Reports.md)
   - [7.3 Event Types](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/7.%20Knowledge%20Objects/7.3%20Event%20Types.md)
