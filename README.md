@@ -55,19 +55,17 @@
   - [10.1 Splunk Architecture and Directory Structure](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/10.%20Guides/10.1%20Splunk%20Architecture%20and%20Directory%20Structure.md)
 
 
-<h2> :globe_with_meridians: Personal Notes: Prep CompTIA Network+</h2>
-- <b>Udemy</b>
-  - [1.1 Computer Networking Fundamentals](https://github.com/ealvarezabasto/Networking-Fundamentals/blob/main/Computer%20Networking%20Fundamentals.md)
-
 <h2> :page_facing_up: Certifications</h2>
 
 - [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
+- [Splunk Enterprise Certified Admin](https://www.credly.com/badges/d1f95103-bf78-4b44-a7f0-479fca2acfa4/public_url)
 
 <h2> :star: Completed Courses</h2>
 
 - <b>Udemy</b>
   - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b>(10.5 hours)</b>
   - [The Complete Splunk Enterprise Certified Admin Course](https://eylearning.udemy.com/certificate/UC-0cfde4ab-fa14-4742-bc44-b8492f368281/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com) <b>(4 hours)</b>
+  - [100 Days of Code: The Complete Python Pro Bootcamp](https://eylearning.udemy.com/course/100-days-of-code/learn/lecture/19211072?start=525#overview) <b>(In Progress - 56.5 hours)</b>
   
 
 <h2> 🤳 Connect with me:</h2>
