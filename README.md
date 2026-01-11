@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eliana! <br/><a href="https://github.com/ealvarezabasto">SIEM Project Manager Consultant</a> <a href="https://www.linkedin.com/in/elianaalvarez11/"</a></h1>
 
-<h2>👨‍💻 Personal Ethical Hacking Development Projects:</h2>
+<h2>🥷 Personal Ethical Hacking Development Projects:</h2>
 
 - <b>Setting up Splunk labs in different cloud instances</b>
   - [1 Exploiting a Backdoor in Metasploitable server (Victim Machine)](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/1.%20Exploiting%20a%20Backdoor%20in%20Metasploitable.md)
