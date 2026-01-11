@@ -4,7 +4,7 @@
 
 - <b>Setting up Splunk labs in different cloud instances</b>
   - [1 Exploiting a Backdoor in Metasploitable server (Victim Machine)](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/1.%20Exploiting%20a%20Backdoor%20in%20Metasploitable.md)
-  - [2. ARP Spoofing Attack](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/2.%20ARP%20Spoofing%20Attack.md).md)
+  - [2. ARP Spoofing Attack](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/2.%20ARP%20Spoofing%20Attack.md)
 
 
 <h2>👨‍💻 Personal Splunk Enterprise SIEM Development Projects:</h2>
