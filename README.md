@@ -73,7 +73,9 @@
   - [Splunk - Beginner to Architect](https://www.udemy.com/certificate/UC-21baa65d-4622-4c68-81a6-b291c5967442/) <b>(10.5 hours)</b>
   - [The Complete Splunk Enterprise Certified Admin Course](https://eylearning.udemy.com/certificate/UC-0cfde4ab-fa14-4742-bc44-b8492f368281/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com) <b>(4 hours)</b>
   - [100 Days of Code: The Complete Python Pro Bootcamp](https://eylearning.udemy.com/course/100-days-of-code/learn/lecture/19211072?start=525#overview) <b>(In Progress - 56.5 hours)</b>
-  
+
+- <b>Readings</b>
+  - [Ethical Hacking - A Hands-On Introduction to Breaking In by Daniel G. Graham](https://www.penguinrandomhouse.com/books/690696/ethical-hacking-by-daniel-graham/) <b>(In Progress - Chapter 2/16)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
