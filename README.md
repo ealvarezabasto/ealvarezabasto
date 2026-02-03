@@ -69,7 +69,7 @@
 
 - [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
 - [Splunk Enterprise Certified Admin](https://www.credly.com/badges/d1f95103-bf78-4b44-a7f0-479fca2acfa4/public_url)
-- [Splunk Accredited Technical Selling Foundations (Partner)]
+- Splunk Accredited Technical Selling Foundations (Partner)
   <img width="1104" height="600" alt="Eliana Alvarez Abasto_Splunk Accredited Technical Selling Foundations (Partner)_Certificate" src="https://github.com/user-attachments/assets/fda60821-1d08-40af-a543-74e3997c6449" />
 
 
