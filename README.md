@@ -87,7 +87,7 @@
   - [100 Days of Code: The Complete Python Pro Bootcamp](https://eylearning.udemy.com/course/100-days-of-code/learn/lecture/19211072?start=525#overview) <b>(In Progress - 56.5 hours)</b>
 
 - <b>Readings</b>
-  - [Ethical Hacking - A Hands-On Introduction to Breaking In by Daniel G. Graham](https://www.penguinrandomhouse.com/books/690696/ethical-hacking-by-daniel-graham/) <b>(In Progress - Chapter 2/16)</b>
+  - [Ethical Hacking - A Hands-On Introduction to Breaking In by Daniel G. Graham](https://www.penguinrandomhouse.com/books/690696/ethical-hacking-by-daniel-graham/) <b>(In Progress - Chapter 3/16)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
