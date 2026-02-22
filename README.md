@@ -1,5 +1,11 @@
 <h1>Hi, I'm Eliana! <br/><a href="https://github.com/ealvarezabasto">SIEM Project Manager Consultant</a> <a href="https://www.linkedin.com/in/elianaalvarez11/"</a></h1>
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/elianaalvarez11/
+
 <h2> :page_facing_up: Certifications</h2>
 
 - [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
@@ -88,8 +94,3 @@
 - <b>Readings</b>
   - [Ethical Hacking - A Hands-On Introduction to Breaking In by Daniel G. Graham](https://www.penguinrandomhouse.com/books/690696/ethical-hacking-by-daniel-graham/) <b>(In Progress - Chapter 3/16)</b>
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/elianaalvarez11/
