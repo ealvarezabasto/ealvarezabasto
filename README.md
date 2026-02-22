@@ -6,7 +6,7 @@
 
 [linkedin]: https://www.linkedin.com/in/elianaalvarez11/
 
-
+<br />
 <h2> :page_facing_up: Certifications</h2>
 
 - [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
