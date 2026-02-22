@@ -9,7 +9,6 @@
 
   <br />
   Chapter 2
-  <br />
   - [ARP Spoofing Attack](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%202%20-%20ARP%20Spoofing%20Attack.md)
   - [Detecting an ARP Spoofing Attack](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%202%20-%20Detecting%20an%20ARP%20Spoofing%20Attack.md)
   
