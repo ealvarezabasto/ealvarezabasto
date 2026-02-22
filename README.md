@@ -1,5 +1,11 @@
 <h1>Hi, I'm Eliana! <br/><a href="https://github.com/ealvarezabasto">SIEM Project Manager Consultant</a> <a href="https://www.linkedin.com/in/elianaalvarez11/"</a></h1>
 
+<h2> :page_facing_up: Certifications</h2>
+
+- [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
+- [Splunk Enterprise Certified Admin](https://www.credly.com/badges/d1f95103-bf78-4b44-a7f0-479fca2acfa4/public_url)
+- [Splunk Accredited Technical Selling Foundations (Partner)](https://www.credly.com/earner/earned/badge/ada5a006-e191-49bf-986a-3f79ecedc823)
+
 <h2>🥷 Personal Ethical Hacking Development Projects:</h2>
 
 - <b>Projects based on Ethical Hacking Principles from Daniel Graham's ***Ethical Hacking: A Hands-on Introduction to Breaking In*** book
@@ -71,13 +77,6 @@
   - [9.3 Creating Custom Role & Adding Users](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/9.%20User%20Access%20and%20Authentication/9.3%20Create%20a%20Custom%20Role%20%26%20Add%20Users.md)
 - <b>Guides</b>
   - [10.1 Splunk Architecture and Directory Structure](https://github.com/ealvarezabasto/Splunk-SIEM-Development-Projects/blob/main/10.%20Guides/10.1%20Splunk%20Architecture%20and%20Directory%20Structure.md)
-
-
-<h2> :page_facing_up: Certifications</h2>
-
-- [Splunk Core Certified Power User](https://www.credly.com/badges/3643f246-3492-49b2-8bd9-aa4d47fa95e4/linked_in_profile)
-- [Splunk Enterprise Certified Admin](https://www.credly.com/badges/d1f95103-bf78-4b44-a7f0-479fca2acfa4/public_url)
-- [Splunk Accredited Technical Selling Foundations (Partner)](https://www.credly.com/earner/earned/badge/ada5a006-e191-49bf-986a-3f79ecedc823)
 
 <h2> :star: Completed Courses</h2>
 
