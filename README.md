@@ -29,7 +29,7 @@
   - [Viewing Packets in TCPDump Collected by the Firewall](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%203.2%20-%20Analyzing%20Packets%20Collected%20by%20Your%20Firewall.md)
 
 - <b>Wireshark packet sniffer</b>
-  - [1 Getting Started](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/Getting%20Started.md).
+  - [1 Getting Started](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/1.%20Getting%20Started.md).
 
 <h2>👨‍💻 Personal Splunk Enterprise SIEM Development Projects:</h2>
 
