@@ -32,7 +32,7 @@
   1) [Getting Started](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/1.%20Getting%20Started.md)
   2) [Understanding basic HTTP GET/Response Interaction ](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/2.%20Basic%20HTTP%20GET%20Response%20Interaction.md)
   3) [Conditional GET/Response to check if a Cached File has changed](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/3.%20Conditional%20GET%20Response.md)
-  4)  
+  4) [ Analyzing HTTP GET Requests and TCP Packet Flow Using Wireshark](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/4.%20Retrieving%20Long%20Documents.md)
 
 <h2>👨‍💻 Personal Splunk Enterprise SIEM Development Projects:</h2>
 
