@@ -30,6 +30,7 @@
 
 - <b>Wireshark packet sniffer</b>
   - [1 Getting Started](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/1.%20Getting%20Started.md).
+  - [2. Understanding basic HTTP GET/Response Interaction ](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/2.%20Basic%20HTTP%20GET%20Response%20Interaction.md).
 
 <h2>👨‍💻 Personal Splunk Enterprise SIEM Development Projects:</h2>
 
