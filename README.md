@@ -29,10 +29,12 @@
   - [Viewing Packets in TCPDump Collected by the Firewall](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Network%20Fundamentals/Chpt.%203.2%20-%20Analyzing%20Packets%20Collected%20by%20Your%20Firewall.md)
 
 - <b> Hands‑On Packet Analysis with Wireshark</b>
-  1) [Getting Started](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/1.%20Getting%20Started.md)
-  2) [Understanding basic HTTP GET/Response Interaction ](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/2.%20Basic%20HTTP%20GET%20Response%20Interaction.md)
-  3) [Conditional GET/Response to check if a Cached File has changed](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/3.%20Conditional%20GET%20Response.md)
-  4) [ Analyzing HTTP GET Requests and TCP Packet Flow Using Wireshark](https://github.com/ealvarezabasto/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/4.%20Retrieving%20Long%20Documents.md)
+  1) [Getting Started](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/1.%20Getting%20Started.md)
+  2) [Understanding basic HTTP GET/Response Interaction ](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/2.%20Basic%20HTTP%20GET%20Response%20Interaction.md)
+  3) [Conditional GET/Response to check if a Cached File has changed](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/3.%20Conditional%20GET%20Response.md)
+  4) [ Analyzing HTTP GET Requests and TCP Packet Flow](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/4.%20Retrieving%20Long%20Documents.md)
+  5) [How a Browser Loads a Web Page: Analyzing HTTP GET Requests](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/5.%20HTML%20with%20Embedded%20Objects.md)
+  6) [Understanding HTTP 401 Authentication and Basic Authorization](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/6.%20HTTP%20Authentication.md)
 
 <h2>👨‍💻 Personal Splunk Enterprise SIEM Development Projects:</h2>
 
