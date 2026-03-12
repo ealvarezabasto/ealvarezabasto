@@ -35,6 +35,7 @@
   4) [ Analyzing HTTP GET Requests and TCP Packet Flow](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/4.%20Retrieving%20Long%20Documents.md)
   5) [How a Browser Loads a Web Page: Analyzing HTTP GET Requests](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/5.%20HTML%20with%20Embedded%20Objects.md)
   6) [Understanding HTTP 401 Authentication and Basic Authorization](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/6.%20HTTP%20Authentication.md)
+  7) [Analyzing DNS Traffic](https://github.com/cap1gu4raRT/Ethical-Hacking-Hands-On-Lab-Work/blob/main/Wireshark%20packet%20sniffer/7.%20DNS%20Lab.md)
 
 <h2>👨‍💻 Personal Splunk Enterprise SIEM Development Projects:</h2>
 
